@@ -17,4 +17,8 @@ def Bubble_sort(arr):
         if (swapped == False):
             break
     return arr
-    
+
+arr = [10,6,3,7]
+sorted_arr = Bubble_sort(arr)
+print(sorted_arr)
+
