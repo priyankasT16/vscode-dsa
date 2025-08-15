@@ -29,6 +29,7 @@ def insertion_sort(arr):
             arr[j+1] = key
     return arr
 
+def 
 arr = [10,6,3,7]
 sorted_arr = Bubble_sort(arr)
 print(sorted_arr)
